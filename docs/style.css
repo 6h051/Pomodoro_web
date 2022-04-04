@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+
+body {
+  font-family: "Fira Code";
+  font-size: 32px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
