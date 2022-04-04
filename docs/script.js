@@ -6,4 +6,8 @@ function live() {
     {
         document.getElementById("title").innerHTML = 2022 - a;
     }
+    else
+    {
+        document.getElementById("title").innerHTML = "";
+    }
 }
